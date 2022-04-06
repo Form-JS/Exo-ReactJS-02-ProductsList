@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Table",
+        "price": 42.5,
+        "promo": false
+    },
+    {
+        "name": "Chaise",
+        "price": 13.92,
+        "promo": true
+    },
+    {
+        "name": "Vase",
+        "price": 3,
+        "promo": false
+    }
+]
